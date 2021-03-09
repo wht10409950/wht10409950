@@ -1,0 +1,66 @@
+
+page{
+  background-color: #ededed;
+  /* height: 100%; */
+}
+.mying{
+  width: 750rpx;
+  height: 580rpx
+}
+.wrap{
+  /* height: 80%; */
+  /* margin-top: 100rpx; */
+  /* background-color: white; */
+  width: 90%;
+  margin-left: 5%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap:wrap;
+          flex-wrap:wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.recite1{
+  width: 300rpx;
+  height: 240rpx;
+  margin-top: 50rpx;
+  line-height: 240rpx;
+  text-align: center;
+  background-color: #bdbad7;
+}
+.recite2{
+  width: 300rpx;
+  height: 240rpx;
+  margin-top: 50rpx;
+  line-height: 240rpx;
+  text-align: center;
+  background-color: #86cad7;
+  margin-left: 40rpx;
+}
+.recite3{
+  width: 300rpx;
+  height: 240rpx;
+  margin-top: 50rpx;
+  line-height: 240rpx;
+  text-align: center;
+  background-color: #e9bab3;
+}
+.recite4{
+  width: 300rpx;
+  height: 240rpx;
+  margin-top: 50rpx;
+  line-height: 240rpx;
+  text-align: center;
+  background-color: #a8c194;
+}
+.tip2{
+  margin-top: 30rpx;
+  margin-left: 30rpx;
+  color: rgba(0, 0, 0, 0.5);
+}
+.picker1{
+  margin-left: 20rpx;
+}
+
